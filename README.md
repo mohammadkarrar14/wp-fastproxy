@@ -55,7 +55,7 @@ wp-fastproxy/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/wp-fastproxy.git
+git clone https://github.com/mohammadkarrar14/wp-fastproxy
 cd wp-fastproxy
 ```
 
