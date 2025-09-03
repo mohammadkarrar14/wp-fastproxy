@@ -77,7 +77,7 @@ Edit `.env`:
 
 ```
 PORT=5000
-WP_API_BASE=https://tabeerai.com
+WP_API_BASE=https://yourwebsiteurl.com
 REDIS_URL=redis://localhost:6379
 ```
 
